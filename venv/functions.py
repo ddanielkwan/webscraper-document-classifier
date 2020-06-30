@@ -9,18 +9,20 @@ def get_req(link):
     return result
 
 
-def get_result(search):
-    result = []
+def get_result(search, titles, links, descriptions):
+
     for result in search:  # loop result list
         print('Title: %s' % result.h3.string)  # geting h3
-        result.append(result.h3.string)
+        titles.append(str(result.h3.string))
 
         print('Url: %s' % result.a.get('href'))  # geting a.href
+        links.append(str(result.a.get('href')))
 
         print('Description: %s' % result.find(class_='st').text)  # description
-        print('\n###############\n')
+        descriptions.append(str(result.find(class_='st').text))
+        print('-------------------------------------------------')
 
-    return result
+    return titles, links, descriptions
 
 
 
