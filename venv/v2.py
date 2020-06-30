@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import functions
 import string
 import nltk
+import os
 import writer
 
 titles = []
@@ -18,26 +19,40 @@ descriptions = []
 pagelinks = []
 #setting up the soup
 #-----------------------------------------------------------------------
-url = 'https://google.com/search?q=hip hop'  # main link to get data
+url = 'https://google.com/search?q='  # main link to get data
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}  # headers
-source = requests.get(url,headers = headers).text  # url source
+cont = input("What do you want to Google Search? ")
+explore = int(input("How many pages do you want to explore? "))
+url = url + cont
+source = requests.get(url,headers = headers, auth=('user','pass')).text  # url source
 
 #making tasty soup
 soup = BeautifulSoup(source, 'lxml')
 #-----------------------------------------------------------------------
+page = 1
+while page != explore + 1:
+    print()
+    print('Page {}...'.format(page))
+    print('-' * 80)
+
+    soup = BeautifulSoup(requests.get(url, headers=headers).content, 'html.parser')
+    search_div = soup.find_all(class_='rc')  # find all divs that contains search result
+    titles, links, descriptions = functions.get_result(search_div, titles, links, descriptions)
 
 
-search_div = soup.find_all(class_='rc')  # find all divs    tha contains search result
+    next_link = soup.select_one('a:contains("Next")')
+    if not next_link:
+        break
 
-titles, links, descriptions = functions.get_result(search_div, titles, links, descriptions)
+    url = 'https://google.com' + next_link['href']
+    page += 1
 
 
-# a = soup.find('table')
-# b = soup.find("tr", {'valign':'top'})
-#
-# for i in b:
-#     print(str(i))
 
-#writer.writer(titles,links) writes to file
+#-----------------------------------------------------------------------
+
+
+writer.writer(titles,links,cont) #writes to file
+
 
 

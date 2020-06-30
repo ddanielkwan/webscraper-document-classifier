@@ -22,6 +22,7 @@ def get_result(search, titles, links, descriptions):
         descriptions.append(str(result.find(class_='st').text))
         print('-------------------------------------------------')
 
+
     return titles, links, descriptions
 
 
