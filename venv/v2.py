@@ -13,7 +13,7 @@ import nltk
 import os
 import writer
 import fileWordCount
-
+from newspaper import Config
 
 
 titles = []
@@ -31,6 +31,11 @@ source = requests.get(url,headers = headers, auth=('user','pass')).text  # url s
 
 #making tasty soup
 soup = BeautifulSoup(source, 'lxml')
+
+#a better user agent so it doesn't timeout
+a = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
+config = Config()
+config.browser_user_agent = a
 #-----------------------------------------------------------------------
 page = 1
 while page != explore + 1:
@@ -55,7 +60,7 @@ while page != explore + 1:
 #-----------------------------------------------------------------------
 
 
-writer.writer(titles,links,cont) #writes to file
+writer.writer(titles,links,cont,config) #writes to file
 
 fileWordCount.get_count(cont)
 

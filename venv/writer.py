@@ -1,9 +1,11 @@
 import string
 from newspaper import Article
 import os
+from newspaper import Config
 
 
-def writer(titles,links,cont):
+
+def writer(titles,links,cont, config):
     #makes folder if does not exist
     if not os.path.exists("D:\SideProjects\webscraper v2\\venv\Dataset\{}".format(cont)):
         os.mkdir("D:\SideProjects\webscraper v2\\venv\Dataset\{}".format(cont))
@@ -16,13 +18,16 @@ def writer(titles,links,cont):
         s = titles[i].translate(str.maketrans('', '', string.punctuation))
         f = open("D:\SideProjects\webscraper v2\\venv\Dataset\{}\{}.txt".format(cont,s), 'a+', encoding="utf-8")
         #reads site text
-        url1 = links[i]
-        article1 = Article(url1)
-        article1.download()
-        article1.parse()
-        a = article1.text
+        try:
+            url1 = links[i]
+            article1 = Article(url1,config=config)
+            article1.download()
+            article1.parse()
+            a = article1.text
         #writes to file
-        f.write(a)
+            f.write(a)
+        except:
+            pass
         f.close()
 
     return
