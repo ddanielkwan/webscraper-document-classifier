@@ -12,6 +12,9 @@ import string
 import nltk
 import os
 import writer
+import fileWordCount
+
+
 
 titles = []
 links = []
@@ -53,6 +56,8 @@ while page != explore + 1:
 
 
 writer.writer(titles,links,cont) #writes to file
+
+fileWordCount.get_count(cont)
 
 
 

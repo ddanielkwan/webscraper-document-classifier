@@ -5,9 +5,10 @@ import os
 
 def writer(titles,links,cont):
     #makes folder if does not exist
-    if not os.path.exists('D:\SideProjects\webscraper v2\venv\Dataset\{}'.format(cont)):
-        os.makedirs("D:\SideProjects\webscraper v2\\venv\Dataset\{}".format(cont))
-
+    if not os.path.exists("D:\SideProjects\webscraper v2\\venv\Dataset\{}".format(cont)):
+        os.mkdir("D:\SideProjects\webscraper v2\\venv\Dataset\{}".format(cont))
+    else:
+        print("already has file")
 
     for i in range(0, len(titles)):
 
