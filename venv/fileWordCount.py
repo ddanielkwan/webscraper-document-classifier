@@ -1,16 +1,17 @@
 """
+fileWordCount.py
+
 Created by Daniel Kwan at 2020-07-01
 
 Description: gets word count of files
-
 """
 
 import os
-
+path = "D:\\SideProjects\webscraper v2\\venv\\Dataset\\"
 def get_count(cont):
 
-    for filename in os.listdir("D:\\SideProjects\webscraper v2\\venv\\Dataset\\{}".format(cont)):
-        f = open("D:\\SideProjects\webscraper v2\\venv\\Dataset\\{}\\{}".format(cont,filename), "rt",encoding="utf-8")
+    for filename in os.listdir(path+"{}".format(cont)):
+        f = open(path +"{}\\{}".format(cont,filename), "rt",encoding="utf-8")
         data = f.read()
         words = data.split()
 
@@ -20,7 +21,23 @@ def get_count(cont):
 
         if c <= 200:
             f.close()
-            os.remove("D:\\SideProjects\webscraper v2\\venv\\Dataset\\{}\\{}".format(cont,filename))
+            os.remove(path +"{}\\{}".format(cont,filename))
             print("Removed {} due to lack of words".format(filename))
         else:
             f.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

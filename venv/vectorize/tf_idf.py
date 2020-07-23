@@ -5,9 +5,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import pandas as pd
 #  specified paths
-path = "C:\\Users\\tedma\\Desktop\\mypython\\Data\\"
-output_path = "C:\\Users\\tedma\\Desktop\\mypython\\pre_processed_data\\"
-vector_path = "C:\\Users\\tedma\\Desktop\\mypython\\vectors\\"
+path = "D:\\SideProjects\webscraper v2\\venv\\Dataset\\"
+output_path = "D:\\SideProjects\\webscraper v2\\venv\\vectorize\\pre_processed_data\\"
+vector_path = "D:\\SideProjects\\webscraper v2\\venv\\vectorize\\vectors\\"
 
 
 # Function returns the names of the text in the dataset

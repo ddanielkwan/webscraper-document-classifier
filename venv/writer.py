@@ -4,11 +4,11 @@ import os
 from newspaper import Config
 
 
-
+path = "D:\\SideProjects\webscraper v2\\venv\\Dataset\\"
 def writer(titles,links,cont, config):
     #makes folder if does not exist
-    if not os.path.exists("D:\SideProjects\webscraper v2\\venv\Dataset\{}".format(cont)):
-        os.mkdir("D:\SideProjects\webscraper v2\\venv\Dataset\{}".format(cont))
+    if not os.path.exists(path+ "{}".format(cont)):
+        os.mkdir(path +"{}".format(cont))
     else:
         print("already has file")
 
@@ -16,7 +16,7 @@ def writer(titles,links,cont, config):
 
         #strip title from puncuations and create file with title
         s = titles[i].translate(str.maketrans('', '', string.punctuation))
-        f = open("D:\SideProjects\webscraper v2\\venv\Dataset\{}\{}.txt".format(cont,s), 'a+', encoding="utf-8")
+        f = open(path +"{}\{}.txt".format(cont,s), 'a+', encoding="utf-8")
         #reads site text
         try:
             url1 = links[i]
