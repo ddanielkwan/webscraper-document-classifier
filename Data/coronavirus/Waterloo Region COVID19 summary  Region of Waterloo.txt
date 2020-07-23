@@ -1,0 +1,53 @@
+Background
+
+Region of Waterloo Public Health continues to work closely with local hospitals, health care partners, the Ministry of Health, Public Health Ontario and many community partners to respond to Novel Coronavirus (COVID-19) in Waterloo Region.
+
+Cases in Waterloo Region
+
+The COVID-19 data results presented below represent a snapshot of the cumulative totals at the time of reporting. The results will differ each day as new case information is available and the situation continues to change. We expect to update case information daily, Monday to Friday, at 10:30 a.m. with data that are current as of 7 p.m. the previous day. Data on test counts and workplace outbreaks are only refreshed on Tuesdays and Fridays.
+
+Notes
+
+Epi-Curves
+
+There are two date options for the epidemiological curve also known as an "epi-curve" graphs: By symptom onset date: The epi-curve by ‘symptom onset date’ shows a more accurate picture of the progression of the epidemic over time. Caution is needed when interpreting the most recent results, because there is a one to two week lag from when individuals get sick, to when cases are reported to Public Health. By case reported date: The epi-curve by ‘case reported date’ shows the number of cases over time as they were reported to Public Health.
+
+Outbreak-related cases are those associated with an outbreak in a congregate living setting such as a long term care home, retirement home or group home, as well as other outbreaks.
+
+Non-outbreak related cases are those not associated with a specific outbreak. The transmission type may be close contact with another case, from travel, or an unknown source.
+
+Municipal and neighbourhood data
+
+Cases and rates by municipality and neighbourhood are based on home residence of positive cases (usually the address found on an individual’s health card or their normal place of residence) and does not reflect where exposure occurred.
+
+Rates are calculated as the number of positive cases per 100,000 population.
+
+Population denominators are based on 2019 year-end estimates, adjusted for 2020 mid-year growth and post-secondary attendance as a result of COVID-19.
+
+Neighbourhoods refer to a custom level of geography developed by Region of Waterloo staff in coordination with area municipalities, and local service providers and community members which is often used for service planning. There are 45 neighbourhoods in Waterloo Region. These neighbourhoods do not necessarily represent neighbourhood association boundaries. Cases are matched to neighbourhoods based on the postal code of the home address. Cases with missing or invalid postal codes are excluded from the neighbourhood mapping because they cannot be assigned to a neighbourhood. NR = 'not reportable'; neighbourhoods with counts less than or equal to five cases have been suppressed to protect personal health information. Patients are assigned to neighbourhood based on their residential postal code. In some rural areas, the postal code and neighbourhood boundaries do not align perfectly, which can result in some cases being assigned to the wrong neighbourhood.
+
+
+
+The number of positive cases in each municipality and neighbourhood is skewed based on testing guidance that prioritizes groups and settings at greater risk, including long-term care and retirement homes.
+
+There is broad circulation of COVID-19 in our community. It should be assumed that you could get COVID-19 anywhere in Waterloo Region.
+
+Outbreak data
+
+Facility outbreaks are defined as one or more resident or staff case(s).
+
+Staff cases may include some staff who reside outside of Waterloo Region.
+
+Congregate settings are defined as group homes and community supported living settings, and disability-specific congregate settings.
+
+Congregate setting data is aggregated to protect the privacy of individuals, as many facilities have a small number of residents and staff.
+
+Workplace outbreak data will be refreshed every Tuesday and Friday.
+
+Hospital outbreaks are declared by area hospitals, in consultation with Region of Waterloo Public Health.
+
+Additional resources
+
+For additional data sets please visit Public Health Ontario or the Ministry of Health.
+
+Accessible formats of the Waterloo Region COVID-19 Summary are available upon request. Please contact Public Health to request an accessible format.

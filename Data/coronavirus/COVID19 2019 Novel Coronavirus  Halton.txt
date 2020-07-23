@@ -1,0 +1,83 @@
+Current situation
+
+Reopening Halton safely and protecting the community
+
+As restrictions are lifted and the economy reopens, it is more important than ever to follow public health direction and take personal responsibility to protect yourself, loved ones and the community (refer to the Protect yourself and others tab on this page).
+
+July 20 : Halton Region will move to Stage 3 of the Framework for Reopening our Province (external link) , effective July 24. This stage allows nearly all businesses and public spaces to gradually reopen with restrictions in place, while some high-risk venues and activities remaining closed until they can safely resume operations. Learn more on the Reopening Halton Region page or read the media release.
+
+: Halton Region will move to Stage 3 of the Framework for Reopening our Province , effective July 24. This stage allows nearly all businesses and public spaces to gradually reopen with restrictions in place, while some high-risk venues and activities remaining closed until they can safely resume operations. Learn more on the Reopening Halton Region page or read the media release. July 15: Halton Regional Council passed by-law 47-20, making it mandatory to wear a non-medical mask or face covering in certain indoor public places. The by-law is in effect at 12:01 a.m. on July 22, 2020. Some individuals may be exempt from the by-law. Please be kind and support each other. Read the By-Law (PDF file) or the media release. Please check here regularly as more information and resources are available.
+
+Halton Regional Council passed by-law 47-20, making it mandatory to wear a non-medical mask or face covering in certain indoor public places. The by-law is in effect at 12:01 a.m. on July 22, 2020. Some individuals may be exempt from the by-law. Please be kind and support each other. June 30: All Halton Municipalities, including Burlington, Halton Hills, Milton and Oakville, strongly encourage residents to wear a face covering or non-medical mask in all indoor public settings and for businesses to require them. Read the full statement or refer to the Protect yourself and others tab this page for more information on the use of masks.
+
+Getting tested
+
+As of May 26, 2020 all residents who have at least one COVID-19 symptom, or are concerned that they have been exposed are encouraged to get assessed and tested at an Assessment Centre (see Assessment and testing).
+
+Current cases in Halton
+
+Data in the tabs below are updated Monday to Friday (excluding holidays).
+
+Last update: Wednesday, July 22 at 10:15 a.m.
+
+Please note that as of July 17, Halton Region Public Health is currently in the process of adopting a new provincial COVID-19 database. During this transitional period, all counts should be considered preliminary and are subject to change as information is reconciled.
+
+Age group Confirmed cases Probable cases* Total Outcomes among total cases Currently active Recovered/resolved Deaths 0-19 53 29 82 3 79 0 20-39 219 21 240 14 226 0 40-59 287 22 309 3 301 5 60-79 157 13 170 9 157 4 80+ 97 0 97 1 80 16 Total 813 85 898 30 843 25 Among the total 898 Halton cases, 79 (9%) have been residents or patients associated with a confirmed institutional outbreak.
+
+Among the total 25 Halton deaths, 12 (48%) have been residents or patients associated with a confirmed institutional outbreak. Municipality Confirmed cases Probable cases* Total cases Outcomes among total cases Currently active Recovered/resolved Deaths Burlington 166 19 185 10 168 7 Oakville 265 28 293 5 285 3 Milton 227 21 248 8 236 4 Halton Hills 153 17 170 5 154 11 Pending 2 0 2 2 0 0 Total 813 85 898 30 843 25 Among the total 898 Halton cases, 79 (9%) have been residents or patients associated with a confirmed institutional outbreak.
+
+Among the total 25 Halton deaths, 12 (48%) have been residents or patients associated with a confirmed institutional outbreak.
+
+Please note that municipality counts can be inflated by outbreaks occurring in institutions located in their boundaries, and comparing counts between municipalities does not take into account differences in their population size or age structure. There are currently no ongoing institutional outbreaks in Halton. Facility name Affected areas Type of facility Municipality Date declared Date declared over Confirmed cases in residents/patients Deaths among confirmed residents/patients Mountainview Residence Entire facility Retirement home Halton Hills 1-Apr-2020 28-Apr-2020 63 10 Amica of Georgetown Entire facility Retirement home Halton Hills 2-Apr-2020 24-Apr-2020 1 0 Park Avenue Manor Entire facility Retirement home Burlington 3-Apr-2020 20-Apr-2020 0 0 Post Inn Village Second floor Long-term care home Oakville 3-Apr-2020 12-May-2020 1 0 Waterford Entire facility Retirement home Oakville 3-Apr-2020 12-Apr-2020 1 0 Allendale Entire facility Long-term care home Milton 5-Apr-2020 20-Apr-2020 0 0 Joseph Brant Hospital 3N 700 and 6 North Hospital Burlington 11-Apr-2020 30-Apr-2020 4 1 Martha's Landing Entire facility Retirement home Burlington 16-Apr-2020 27-Apr-2020 0 0 Northridge Entire facility Long-term care home Oakville 19-Apr-2020 6-May-2020 1 0 Waterford LTC Entire facility Long-term care home Oakville 19-Apr-2020 18-May-2020 2 0 Del Manor Glen Abbey Second floor Retirement home Oakville 21-Apr-2020 3-May-2020 0 0 The Village of Tansley Woods Retirement Home Entire facility (except Emma Home area) Retirement home Burlington 24-Apr-2020 8-May-2020 0 0 The Brant Centre Entire facility Long-term care home Burlington 15-May-2020 27-May-2020 1 0 West Oak Village Entire facility Long-term care home Oakville 15-May-2020 30-May-2020 0 0 Wyndham Manor Entire Facility Long-term care home Oakville 16-May-2020 31-May-2020 1 0 Bennett Centre Entire facility Long-term care home Halton Hills 17-May-2020 1-June-2020 1 0 Creek Way Village Entire facility Long-term care home Burlington 17-May-2020 1-June-2020 2 0 Extendicare Halton Hills Glen Williams Unit Long-term care home Halton Hills 22-May-2020 1-June-2020 0 0 Billings Court Wedgewood Hub Long-term care home Burlginton 18-Jun-2020 29-June-2020 1 1 CAMA Woodlands Oakwood unit Long-term care home Burlington 9-Jun-2020 1-Jul-2020 0 0 Waterford Sheridan Floor Long-term care home Oakville 28-Jun-2020 5-Jul-2020 0 0 Total - - - - - 79 12 Among the total 898 Halton cases, 79 (9%) have been residents or patients associated with a confirmed institutional outbreak. This includes 0 from ongoing outbreaks, and 79 from resolved outbreaks.
+
+Among the total 25 Halton deaths, 12 (48%) have been residents or patients associated with a confirmed institutional outbreak. This includes 0 deaths from ongoing outbreaks, and 12 from resolved outbreaks. Data notes General: Extracted from CCM at 7 a.m. on July 22, 2020, with data current to end of day on July 21, 2020. All data are dynamic and subject to change with future updates. CCM is a dynamic disease reporting system which allows ongoing updates to data previously entered. As a result, data extracted from CCM represent a snapshot at the time of extraction and may differ from previous or subsequent reports. Tables are updated once per day on weekdays. The ‘change from last update’ reflects how much higher or lower the count is compared to the most recently published tables. The change does not reflect when cases’ symptoms began. As the tables are not updated on weekends, the ‘change from last update’ can be expected to be higher on Mondays and Tuesdays, as new cases reported on Fridays, Saturdays, and Sundays are captured. Based on information gathered while doing case investigation, numbers may increase or decrease daily to reflect our most up to date information. Our main priority in outbreak management is prevention. Ensuring appropriate measures are being taken by the institutions requires time, in addition to collecting information on the status of the residents. For this reason, outbreak counts take time to be updated in CCM.
+
+Probable cases are individuals presumed to have COVID-19 because they have symptoms of COVID-19 and are travelers returning from an affected area, have had close contact with a confirmed case, lived/worked in a facility experiencing a COVID-19 outbreak, or had indeterminate test results.
+
+All data includes only individuals whose main usual residence is in Halton Region. Currently active, recovered/resolved and deaths are a subset of total cases. Cases are considered to be active if the case is open in iPHIS. Cases are considered to be recovered/resolved if their symptoms have resolved, at least 14 days have passed since symptom onset, and/or the case has been closed in iPHIS.
+
+Deaths include any death that occurred among a person who tested positive for COVID-19, even if the death may not have been directly attributable to COVID-19. Outbreaks: Date declared for outbreaks reflects the outbreak classification date in iPHIS or CCM.
+
+Outbreaks may be listed with zero confirmed cases in residents/patients, because an outbreak can be declared if there is a confirmed case in one or more staff members. The number of cases among staff members has not been included because it can be difficult to track, since many staff members live outside Halton and are managed by the health unit where they reside.
+
+The outbreak tables and the counts of residents or patients associated with a confirmed institutional outbreak refer only to confirmed outbreaks in long-term care homes, retirement homes, and hospitals. Map of COVID-19 cases by neighbourhood in Halton Region Crude incidence rates of COVID-19, confirmed and probable cases not associated with institutional or congregate care setting outbreaks, per 10,000 population, by neighbourhood, Halton Region. Mapping data are updated weekly; data below accurate to end of day on Sunday, July 12, 2020. Area Crude rate per 10,000 Ontario 22.2 Halton 13.7 Please select a neighbourhood on the map below to view rate information. To search for an address, please view in Google Maps (external link). Rates per 10,000 population 0.1 - 9.9
+
+10.0 - 19.9
+
+20.0 - 39.9
+
+Bronte Park 0.1 - 9.910.0 - 19.920.0 - 39.9Bronte Park Data notes Neighbourhood maps Data extracted from CCM at 8 a.m. on July 20, 2020, with data current to end of day on July 19, 2020. All data are dynamic and subject to change with future updates.
+
+Rates have been calculated using 2016 census estimates as the denominator. However, these rates should be viewed as estimates since many Halton neighbourhoods have experienced significant population growth since the 2016 census was conducted. This means that the number of COVID-19 cases in the numerator may be consistent with how many residents are actually living in the neighbourhood, but the denominators may be low since they have not changed since the 2016 census. This can result in rates per 10,000 that are overestimated.
+
+Neighbourhoods in the map are based on neighbourhoods developed by Our Kids Network as part of a consultative process that took into account census, natural, municipal, and regional boundaries, while considering borders and names that would be meaningful to residents. For more information, please see the Neighbourhood Profiles page of the Our Kids Network website.
+
+Rates per 10,000 were calculated because most neighbourhoods have between approximately 10,000 and 40,000 residents. This allows the rates to be accurately interpreted with respect to case counts. The area surrounding Bronte Park has no cases due to few individuals residing in that area.
+
+Halton rates exclude cases among staff or residents of institutions or congregate care settings experiencing a COVID-19 outbreak. The Ontario rate excludes cases among residents or staff of a long-term care home experiencing an outbreak.
+
+These rates are crude rates, meaning they do not take into account demographic differences between neighbourhoods (for example, differences in age distribution).
+
+The crude rates were calculated using the cumulative cases in each neighbourhood since the start of the pandemic. Including only active cases would result in low counts that may be identifying.
+
+As case counts are low, most rates have wide associated confidence intervals, and so are not necessarily statistically significantly different from each other, nor from the overall Halton rate.
+
+Cases of COVID-19 that could not be assigned to a neighbourhood (for example, due to inaccurate or missing address information) have been excluded from the maps and table (<5%).
+
+Only includes cases with a diagnosing health unit of Halton (meaning the case primarily resides in Halton).
+
+Surveillance reports
+
+COVID-19 health advice
+
+Most people with COVID-19 infection will develop mild symptoms and will recover on their own at home.
+
+The risk of severe illness and outcomes is higher for older adults and those with weakened immune systems and underlying medical conditions (diabetes, heart and lung disease).
+
+For a list of tip sheets and resources on COVID-19, such as cleaning and disinfection, guidelines for self-isolation or taking care of yourself and others, visit Public Health Ontario (external link) .
+
+. For more information about COVID-19, email accesshalton@halton.ca or call 311. Translation is available in multiple languages.
+
+Additional information
+
+Media updates and announcements

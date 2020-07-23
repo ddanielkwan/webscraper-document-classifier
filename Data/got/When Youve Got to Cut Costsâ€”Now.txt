@@ -1,0 +1,161 @@
+The Idea in Brief You’ve been ordered to reduce your department’s costs by 10%, 20%, or 30%. How do you do it? First, don’t expect to reach your target with a single big idea. You’ll need a combination of 10 or more actions. Second, match the kinds of opportunities you examine and implement to the degree of cost reduction required. To get to 10%, go with incremental ideas that do not significantly disrupt your organization’s or department’s interactions with others. To reach 20%, explore redesign ideas that reorganize activities. This often eliminates the lowest-value ones, with moderate impact on other departments. To cut 30% or more, pursue cross-department and program-elimination ideas. But remember that they have the greatest potential to be organizationally disruptive.
+
+You’ve been a good manager of a large department for some time now. You’ve run a tight ship. When possible, you’ve cut costs. But now an order has come down (from high enough above that you don’t have the liberty of debating its wisdom or feasibility) decreeing that you must find an additional 10%, 20%, or even 30% in administrative cost reductions, severance aside. You just don’t see how it can be done.
+
+What’s the Right Level of Overhead? Companies undertake administrative cost reductions for a number of reasons—to protect earnings, to gain synergies from an acquisition, to stave off bankruptcy. No matter what the reason, though, an important question hangs over every cost-cutting effort: “Are we cutting enough—or too much?” Expressed more fundamentally: “What’s the right level of overhead?” There is no universal answer. But there is a right way to approach the question. Overhead should be incurred for only three purposes—to enable your direct activities, increase their effectiveness, or lay the groundwork for growth. And each kind of overhead should be held to a different standard. Enables Direct Activities 1. When it comes to overhead that enables your direct activities—expenses associated with being a public company, basic payroll functions, financial control, and so on—you should determine how much cost your product must bear as a result of those activities (two dollars per pizza, or 40% of net sales, or 110% of direct product costs). Next, compare this with the burden that your leanest competitor’s product bears. If your product’s burden is greater, you’ve made an implicit decision to reduce its competitiveness. Is the trade-off intentional? Increases Effectiveness 2. Overhead that increases the effectiveness of your direct activities should be evaluated against a strict cost/benefit standard. Simply ask whether the measurable improvement in effectiveness pays for itself. You can also rank each overhead item from most effective to least and draw the cutoff at the point you consider acceptable. This same standard should be applied to many activities not traditionally recognized as overhead. Line supervisors and senior executives may not like being classified with finance and HR staffers, but for this purpose, they should be. Lays Groundwork for Growth 3. Finally, overhead that constitutes an investment in growth should be looked at on a net-present-value basis—just as other investments are. If the anticipated profit is high enough to justify the bet you’re placing today, the overhead gamble is worthwhile.
+
+Further complicating your life are the limitations on your choices. Because you don’t report directly to the CEO, you’re not in a position to advocate strategy changes or pursue wholesale shifts like offshoring. Nor do your instructions allow you to push for large investments—in new technology, for example—that would enable you to replace other departments. No, you have to do this the hard way: one item at a time and in short order.
+
+You are not alone. Over the past 30 years, we have worked in, led, or provided consulting assistance to numerous organizations in this situation—including manufacturing companies, financial institutions, professional-services firms, high-tech start-ups, utilities, and universities. Our experience shows that administrative cost-reduction opportunities follow similar patterns virtually everywhere. The lessons we’ve gleaned may not solve your entire problem, but they should give you a substantial jump on it.
+
+As you begin your quest for administrative cost savings, keep two key points in mind:
+
+First, forget about finding a single idea that would radically change the cost structure of your organization or department, thereby solving your problem in one go. (If such an idea existed, it would most likely entail so much risk that the organization would never be willing to implement it.) Instead, you should plan to reach your goal with a combination of 10 or more actions.
+
+Second, the degree of organizational disruption caused by your reductions will usually be proportional to the degree of cutting you do. Therefore, you should tailor the reductions you pursue to your savings goal. Incremental ideas with minimal impact on other departments can allow you to trim up to 10% of costs. Redesign or reorganization ideas often eliminate the lowest-value activities, with moderate impact on other departments, and can help cut expenses by up to 20%. Cross-department and program-elimination ideas are usually necessary when you’re aiming for 30% or more, but they have the greatest potential to be organizationally disruptive.
+
+Getting to 10%: Incremental Ideas
+
+Most departments can cut up to 10% of costs without changing their interactions with the rest of the organization. The following kinds of reductions are most common:
+
+Getting to 10% Incremental Ideas 1. Consolidate incidentals. 2. Take overdue personnel actions. 3. Reduce spending on department management. 4. Gain control of “miscellaneous” spending. 5. Hold down pay increases. 6. Repropose rejected cost-saving ideas.
+
+Consolidate incidentals.
+
+Unless cost cutting is new to the company, you’ve already done away with most discretionary, comfort, and non-mission-critical perks and activities, such as holiday parties, event tickets, and tuition reimbursement. If that’s the case, don’t try to eliminate more—you probably can’t. Instead, see if you can consolidate what’s left. Combine activities like training days and celebrations into single events. Combine events across multiple departments. Cross-schedule the use of outside resources, such as facilities or trainers. You’ll be surprised at the opportunities. For example, one university determined that Parents’ Weekend and Homecoming were both far too valuable to eliminate—but found that it could save close to 40% of the combined cost by holding the two events on the same weekend.
+
+Combine activities like training days and celebrations into single events, and cross-schedule the use of outside resources.
+
+Take overdue personnel actions.
+
+All administrative departments, efficient ones included, have unresolved personnel issues. That’s true even for those that have been through previous rounds of cost reduction. After you have exhausted the common ploy of claiming cost savings by leaving vacant positions unfilled, you should restructure the jobs of any less-than-fully-busy people and confront the problem of underperformers.
+
+You’ll find two types of less-than-fully-busy people. The first is usually easy to spot: These workers spend the most time in the halls. They organize the office birthday parties. Perhaps their jobs were made simpler by the new online HR or finance system a year ago, and new duties were never assigned. The second type includes employees who do both unpleasant but valuable tasks and pleasant but less valuable ones. Any efficiency gains in the former part of their job tend to get offset by excessive focus on the latter. Such was the case for branch officers at a bank we worked with a few years ago. The company had spent millions of dollars making the sales process more efficient, yet sales did not grow. We discovered that the officers devoted their freed-up time to better serving existing customers and reading up on new products—but not to phoning customers and selling (which they enjoyed least). We taught the bank to offer branch managers a choice each time it implemented a labor-saving innovation: either combine jobs and reduce head count or raise the branch’s sales goals by a commensurate amount.
+
+After dealing with your less-than-busy employees, you’ll need to take the personnel action you have most likely been avoiding for a while: terminating the underperformers. Every department seems to have one or two of them. The manager knows their work hasn’t been satisfactory but feels uncomfortable about firing them—usually for entirely understandable reasons, such as kindness (“Mary’s personal situation is so difficult right now”) or unpleasantness (“The rest of the department will be upset if we let Bill go”). Admit it: You already know who these people are. In two more years, you may not be able to protect them any longer. They will be two years older, which may make it harder for them to get comparable positions elsewhere. Is “saving” them today really doing them a favor?
+
+Some managers fail to address these problems because of perceived procedural barriers (“HR says we have to document Fred’s underperformance and go through a probationary period—it’s just too much hassle”). But you can find ways around those barriers. We once worked with a company that had given 94% of all midlevel managers the highest rating on its scale during its most recent evaluation period. At first, the HR department said that the grade inflation made it impossible to address underperformers, so the division president took a different tack and re-examined his organization’s structure. He redefined all the midlevel managers’ jobs, eliminating the need for about 25% of them. Because the job requirements were new, past HR ratings did not matter. He created a process to ensure that the people best qualified for the new jobs got them; the others were released.
+
+Reduce spending on department management.
+
+Most administrative departments (particularly those with more than 20 employees) use as much as 20% of their budgets to supervise and coordinate their own activities. Determine which parts of your department are performing essentially the same tasks they were a year ago. Those parts probably don’t need the level of supervision they once did. At one bank, we found that oversupervising the tellers actually cost the organization doubly: It had to compensate the managers and pay for the lost time that tellers spent discussing with their bosses matters that could have been handled independently. The supervisors’ truly valuable roles—encouraging employees and dealing with exceptions to the norm—could be performed in less than a quarter of the time people spent “supervising.” As a rule of thumb, you should be able to reduce the number of hours devoted to supervision by about 10% in each year that the department’s duties remain largely unchanged, as long as there has been little turnover. But to gain value from this reduction, you must increase the individual contributions required of the supervisors.
+
+How (and When) to Review Management Organizations and departments trying to cut administrative costs often leave management untouched—missing out on big potential savings. They tend to consider supervisors and the number of people reporting to each—spans of control—at the beginning of the review process, when it’s easy to conclude that big changes are impossible. That’s because heads of staff functions are viewed as needing subject-matter expertise in the areas they oversee. This makes for narrow spans of control, especially when subordinates are doing distinct, specialized tasks. It’s more effective to wait until other sources of head-count savings are agreed upon before you examine management. Once you’ve cut about 20% of the frontline work (and personnel), you will have a better idea of how much expertise each manager really needs and, as a result, what the spans of control should be. After that, the savings potential is simple math: Take a department with 125 frontline workers, 25 first-level supervisors, and five second-level supervisors. The all-in cost of each supervisor is 50% higher than that of the individuals she supervises, and the average span of control is five.If you cut the frontline staff by 20% and left management alone, overall cost savings would be just14%. But if you reduced the supervisory ranks by the same percentage, thus keeping the average span of control at five, your savings would go up by nearly half, to 20%. Click here for a larger image of the graphic.
+
+Gain control of “miscellaneous” spending.
+
+In some departments, it’s supplies; in others, it’s telecom or computers. You can almost always find 15% to 20% of spending that hasn’t been managed closely. In one particularly egregious example, each department at a company we worked with was allowed to spend up to $10,000 a year on stationery and supplies without seeking direct approval from superiors—yet the manufacturing department couldn’t get approval through the normal capital process to purchase the $8,000 overhead crane it needed. Soon, a new crane appeared in the factory with its name painted on the side: Stationery & Supplies. Its spiritual cousin—a riding lawn mower named Typewriter—was found in the maintenance department.
+
+Hold down pay increases.
+
+Though this idea seems obvious, it is usually overlooked. That’s because nearly every manager (inaccurately, in many cases) believes the members of his or her department are underpaid. Check with HR to see where your employees stand relative to the marketplace. If they are not below market, consider holding the average pay increase in your department to 1% or 2% less than last year’s company average.
+
+Repropose rejected cost-saving ideas.
+
+Finally, you’ll want to look back through the past three budget cycles to discover where your department proposed productivity-enhancing suggestions that required small investments. They may have been rejected because of constraints or other priorities (this often happens, for example, when initiatives require systems programming and IT’s resources are tied up elsewhere). Now is the time to repropose those ideas.
+
+Getting to 20%: Redesign Ideas
+
+It is rarely possible to achieve cost reductions of 20% unless you remove a significant portion of the work content from the department. It’s never a good idea to attempt to do the same work with 20% fewer people.
+
+Strive to eliminate any work for which the cost exceeds the value—keeping in mind that it surely has some value.
+
+You should strive to eliminate any work for which the cost exceeds the value (keeping in mind that it surely has some value and that cutting it will cause a certain amount of discomfort). Start by identifying and aggregating all opportunities to reduce the department’s workload—even cuts that will save just one quarter of one full-time-equivalent (FTE) position—and then redistribute your department’s remaining activities among the smaller number of jobs. This will allow you to separate the decision to eliminate tasks from the identity of the individuals who conduct them. You can then determine which people are best suited for the new jobs.
+
+Getting to 20% Redesign Ideas 1. Talk to your counterparties. 2. Change the process. 3. Move away from the belt and-suspenders mind-set.
+
+To eliminate work effectively, rethink the activities of your department in three ways:
+
+Talk to your counterparties.
+
+How is the workload of your department shaped by other groups in the organization? Is your role to provide information to them, for example, or to process or store information generated by them? Do their deadlines and requirements exacerbate your workload?
+
+If so, cost has a reasonable chance of exceeding value (at the consolidated-organization level), because the department requiring the work does not directly bear the cost. You assume that the counterparty values the work highly enough to justify your efforts, but that may not be the case. Therefore, you should disaggregate your efforts as much as possible—for instance, by geography and product line—and then verify that each part of your effort is justified. This approach can reveal several kinds of opportunities, such as:
+
+Eliminating liaisons and coordinators.
+
+These positions were established on the assumption that two or more groups cannot understand each other’s functions well enough to communicate efficiently. Multiple studies have shown that this assumption is often wrong. We recently found a way for a company to save more than $600,000 a year just by eliminating coordinators between HR and other departments in the same building. Coordinators were valuable to departments whose operations were spread around the country but less so to those nearby.
+
+Reducing excessive service levels.
+
+Do you prepare long reports with comprehensive data when only exceptions matter or when the true consequences of variances are quite small? Do you prepare reports that cover short periods of time or are delivered in real time, when longer periods or slower reporting would meet the need just as well? One client, we discovered, was still employing several full-time clerks to sift through daily reports and manually highlight “important” variances long after a systems enhancement had changed the company’s understanding of which variances were large enough to matter—negating the need to examine 95% of them. What was worse, a senior executive’s assistant recognized that the reports were no longer useful, so she had stopped giving them to her boss. And since she had no knowledge of the effort required to create them, she had not notified the reports’ originators.
+
+Change the process.
+
+Often, internal administrative processes become frozen—despite the fact that, over time, they may cease to be efficient or effective. Asking questions in four areas can help you understand whether this has occurred in your department and whether you can cut expenses accordingly:
+
+Reduced business requirements.
+
+How have the business requirements evolved since you last fundamentally redesigned the process? Perhaps the need for certain data has diminished or disappeared altogether. How would you design the process differently today, to meet today’s needs?
+
+Manual processes.
+
+Where do you use people to process forms or information repetitively, rather than do it electronically, with little or no human intervention?
+
+Exceptions to the norm.
+
+Do the routine 90% of items cost much less to handle than the exceptional 10%? What would it take to do away with the exceptional ones? At a large health insurer, we found that a “clean” claim cost 80% less to process than one that required special handling. By redesigning its claim forms and eliminating exceptions that did not matter, the client saved more than half the cost of exceptions.
+
+Timing.
+
+Could you save money by shifting the time of day, week, or month that you undertake certain tasks? For example, how about doing the work when activity in your department is otherwise slow? Could it be done more efficiently in batches? Is there a real penalty attached to being available online for fewer hours of the day? Could tasks be completed more efficiently if they were not tackled on a first-in, first-out basis?
+
+Move away from the belt-and-suspenders mind-set.
+
+Historically, managers were evaluated against the no-surprises standard. The “good” ones prepared for any contingency. However, by rewarding managers for protecting against low-probability, low-consequence events, this standard has predictably produced excess costs.
+
+Take a look at where you spend resources on the off chance that certain events might arise. Have the events actually not occurred in the past five years? If they were to occur, would they be embarrassing but not very costly? If you’ve answered yes to either question, you’re probably wasting those resources. Examples of caution overkill include keeping detailed records when the information you might later need could be gathered from other sources; stockpiling data just in case someone in the future should want to analyze the situation differently; and keeping data available online for long periods (rather than in backup storage). We recently discovered an opportunity to reduce a company’s IT costs by more than $300,000 in the first year, and up to $500,000 a year by the fifth year, simply by changing its data storage policies to better fit its needs.
+
+Many staff functions involve reviewing and reconciling information supplied from a decentralized field operation. Usually, these positions hark back to a time when there were many errors in the data or wide variances from expectations. Even as errors decrease and expectations are more routinely met, most companies continue to devote resources to checking 100% of the data 100% of the time. Consider eliminating the review entirely, conducting it less frequently, or checking just those units with a history of supplying bad data. One fast-food client required daily reconciliations of the cash balances of every one of its 600 stores, even though 99% of them had not had an error in more than a year. The company discovered that once a week was more than sufficient to catch errors before they did any harm.
+
+Getting to 30% or More: Cross-Department and Program-Elimination Ideas
+
+You’re unlikely to find cost savings of 30% or more of your existing budget by looking solely within your department. However, you’ll be surprised at what you can accomplish by investigating how well the work of your department fits with that of the others. (An organization can be inefficient in total even if each group within it is efficient.) So if your goal is 30% or more, you must think more broadly.
+
+Getting to 30% or More Cross-Department and Program-Elimination Ideas 1. Coordinate parallel activities. 2. Shift the burden to the most efficient location. 3. Eliminate duplicated analysis. 4. Eliminate low-value meetings and forums. 5. Restructure or cut cross-department activities. 6. Eliminate programs. 7. Reduce the burden you place on others.
+
+Coordinate parallel activities.
+
+Many departments conduct similar activities or purchase the same items independently, on a small scale. In such cases, coordination can reap valuable savings. For example, departments often buy supplies without regard to what others are ordering. This prevents the organization from using its combined purchasing power to reduce prices. At one company, a department ordered the very supplies and equipment that others had in excess. Fruitful areas to examine include paper, photocopying, personal computers (particularly if only some departments require the newest machines), and furniture.
+
+Here’s one example of coordination that promises surprisingly big savings: Many organizations fail to obtain substantial travel discounts from hotels, because they don’t recognize that their various departments separately send personnel to the same locations. Such discounts cannot be achieved through Travelocity or Orbitz, or through standard negotiations with the hotel chain’s national office (unless your company is huge). They require person-to person negotiation with the individual hotels’ managers, who will usually agree to discounted rates if your employees collectively stay there 10 or 15 nights a year. Often, the discounts available to any one department are not worth the negotiation effort required—but when multiple departments coordinate their efforts, the savings can be large and relatively easy to obtain. One client recently got more than $300,000 a year in discounts by having an administrative assistant devote one month to negotiating with the local managers of the hotels where employees routinely stayed.
+
+Shift the burden to the most efficient location.
+
+One of the most common laments heard during budget season is “We could reduce costs here if Department X would change what it’s doing—but it has budget constraints, and so it can’t.” The irony is, budget season is the time to bring up such cross-department trade-offs, because that’s when spending can be shifted. For example, one client had 10 people—spread across three departments—whose sole job was to check the accuracy of data sent in by field sales offices. No single department could persuade the head of field sales to address his underlings’ lax attitude toward their data. When the full cost was recognized and charged back to his department, standards changed.
+
+It may also be time to consider outsourcing activities or work groups. The case for handling activities in-house usually rests on the judgment that the business has unique needs. That may be true. But considering the advancements in recent years by administrative service providers of all kinds, you may want to question whether your needs are really so specialized that you should ignore the potential benefits of outsourcing payroll, benefits management, recruiting, media planning, and other functions. Our clients’ experience shows that outsourcing can reduce administrative costs significantly—and may improve performance in the process.
+
+Recognize, though, that your organization will reject any isolated recommendation about outsourcing. People will object to the burden of creating a contract, voice fears about confidentiality, and so on. But when several opportunities are presented simultaneously, organizations tend to be more willing to face the onetime discomfort and take action.
+
+Eliminate duplicated analysis.
+
+When one department buys items from another department using transfer prices, the same “sale” may be recorded, analyzed, and reviewed by as many as five separate departments (the buyer, the seller, the transporter, quality assurance, and finance/accounting). In most cases, a single neutral department can be assigned the entire analytical task.
+
+Here’s another example: Many companies have multiple departments analyze the same event (such as a major product introduction or a promotional event for a consumer products company) from multiple angles (marketing, sales, manufacturing), with each department working independently. Because each one feels responsible for providing a comprehensive analysis, much of the base-level work is duplicated. The most effective and efficient companies conduct a single, coordinated effort in which one department is charged with analyzing the event and incorporating input from other key departments.
+
+Eliminate low-value meetings and forums.
+
+We know of one company where the top three to four layers of management are virtually paralyzed 20% of the time—that is, one full day each week, on what the employees ruefully refer to as “Meeting Monday.”
+
+If you feel similarly paralyzed, consider organizing a cross-department audit of all regularly scheduled meetings to figure out which ones can be repurposed, consolidated, or eliminated. At one professional-services firm, such an audit significantly reduced the time that its busiest and most valuable employees (the account executives) spent in meetings, thus increasing their productive hours (time devoted to directing account teams and pursuing new clients) by 20%.
+
+Restructure or cut cross-department activities.
+
+If you are hunting for savings of 30% or more, you may have to challenge even the most sacred of cows—and you may be pleasantly surprised at the outcome. One professional-services company that prided itself on hiring and developing the best talent was reluctant to change its approach to interviewing, selecting, and managing the performance of its personnel. But the billable hours consumed by such activities were simply too numerous to ignore. An extensive review revealed that most of the related HR paperwork added to the time burden but did not improve results. Further, in the hiring process, three interviews by the best interviewers more accurately predicted a candidate’s eventual success with the firm than up to six interviews by less-skilled interviewers. The company restructured these activities in light of what it had learned, both decreasing the hours spent on them and increasing employee satisfaction and performance.
+
+Eliminate programs.
+
+If you can’t reach your savings target through the actions described above, you will have to take the painful step of recommending that entire tasks or programs conducted by your department be cut. (Obviously, you should start with the least valuable ones.) While final decisions will require the input of other departments, you can draw up a list of possibilities. Determine which programs involve an unusual amount of work to support a portion of the company (for instance, a certain product line, region, or customer segment) that is unprofitable or less profitable than the company average.
+
+Reduce the burden you place on others.
+
+Finally, you should seek out opportunities to tell other departments how they are overserving you. You’ll need to challenge your assumptions. Just as other groups are unlikely to know when they are loading extra work on yours, you are unlikely to know when you are doing the same to them. Ask them where they’re feeling overtaxed, and tell them where you would be willing to live with less. After all, if the organization’s true goal is to reduce overall costs by a set dollar amount or percentage, any low-pain reduction in one department preempts an equivalently valued but potentially higher-pain reduction that the organization would otherwise need to impose—perhaps on your department.
+
+Reducing administrative costs by 10%, or 20%, or 30% is a daunting task, but take heart. If you start now and stick with it, you will find enough ideas—and the right ones—to reach your goal.
+
+Both experience and research indicate that idea generation improves through multiple iterations. So, even if your recommendations are not due for a month or more, you should identify ideas today that could meet the full goal. Set them aside for two or three days and repeat the process. You will find that the ideas improve each time you do this, because you will see new possibilities and discover the limitations of your earlier ideas.
+
+Curbing Costs in Unstructured Departments Every company has unstructured departments—marketing, strategic planning, financial analysis, operations management—where the workload is not a function of repetitively processing certain transactions or information. These departments conduct analyses to develop insights that can lead to better decision making. They usually find it difficult to systematically reduce costs, because they don’t have stable routines driving their activities. An effective way to clear that hurdle is to adopt a simple principle: Analysis is valuable only if it could change a decision. That is, proceed only if there is an explicit hypothesis about what the analysis will prove and an up-front agreement about what to change if the hypothesis proves correct.
+
+Make yourself meet the full goal with each iteration. The natural tendency, given the unpleasantness of the task, will be to say, “I don’t have enough ideas today, but I’ll close the gap next time.” As a result, you won’t reach your final goal until just before your deadline—and many of your ideas will not be very good. The only thing worse than being forced to personally implement administrative cost cuts is being forced to implement ones you know you will regret in a month.
