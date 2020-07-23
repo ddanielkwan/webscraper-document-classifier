@@ -1,0 +1,59 @@
+import requests
+from newspaper import Article
+from bs4 import BeautifulSoup
+import functions
+import string
+import nltk
+import os
+import writer
+import fileWordCount
+from newspaper import Config
+
+
+titles = []
+links = []
+descriptions = []
+pagelinks = []
+#setting up the soup
+#-----------------------------------------------------------------------
+url = 'https://google.com/search?q='  # main link to get data
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}  # headers
+cont = input("What do you want to Google Search? ")
+explore = int(input("How many pages do you want to explore? "))
+url = url + cont
+source = requests.get(url,headers = headers, auth=('user','pass')).text  # url source
+
+#making tasty soup
+soup = BeautifulSoup(source, 'lxml')
+
+#a better user agent so it doesn't timeout
+a = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
+config = Config()
+config.browser_user_agent = a
+#-----------------------------------------------------------------------
+page = 1
+while page != explore + 1:
+    print()
+    print('Page {}...'.format(page))
+    print('-' * 80)
+
+    soup = BeautifulSoup(requests.get(url, headers=headers).content, 'html.parser')
+    search_div = soup.find_all(class_='rc')  # find all divs that contains search result
+    titles, links, descriptions = functions.get_result(search_div, titles, links, descriptions)
+
+
+    next_link = soup.select_one('a:contains("Next")')
+    if not next_link:
+        break
+
+    url = 'https://google.com' + next_link['href']
+    page += 1
+
+
+
+#-----------------------------------------------------------------------
+
+
+writer.writer(titles,links,cont,config) #writes to file
+
+fileWordCount.get_count(cont)
